@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TextEditor\\TextEditor.csproj": {}
+    "C:\\git\\TextEditor\\Editortxt\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\git\\TextEditor\\TextEditor.csproj": {
+    "C:\\git\\TextEditor\\Editortxt\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\git\\TextEditor\\Editortxt\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "C:\\git\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\git\\TextEditor\\Editortxt\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\marca\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TextEditor\\obj\\",
+        "outputPath": "C:\\git\\TextEditor\\Editortxt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marca\\AppData\\Roaming\\NuGet\\NuGet.Config",

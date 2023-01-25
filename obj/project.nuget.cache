@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AVhJCDm2E7X4rH8uvC0Fvbf7qCE7HQOnf53kEM/1yFLBFLnQgJgtIqses8v9xVOmHZRCqUN0M/cpzahoRaR8sQ==",
+  "dgSpecHash": "/U+Re064qLRPlCrWGssHcmuhRFnXfe9Z/MB11NgbrNlHC82K6o4gx6AYv5v5a+maU9XhbTgtt7Bqnxj5Jwht/w==",
   "success": true,
-  "projectFilePath": "C:\\git\\TextEditor\\TextEditor.csproj",
+  "projectFilePath": "C:\\git\\TextEditor\\Editortxt\\TextEditor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
